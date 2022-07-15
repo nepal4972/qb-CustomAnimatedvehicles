@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FlatbedData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Model>flatbed3</Model>
+    <AttachDummy>misc_a</AttachDummy>
+    <WinchDummy>misc_b</WinchDummy>
+    <ControlDummy>misc_e</ControlDummy>
+    <ControlDummy2>misc_f</ControlDummy2>
+    <ControlIsOutside>false</ControlIsOutside>
+    <EnableExtraDoor>false</EnableExtraDoor>
+    <ExtraDoorMove>Trunk</ExtraDoorMove>
+    <ExtraDoorAngleAdjustment>0</ExtraDoorAngleAdjustment>
+</FlatbedData>

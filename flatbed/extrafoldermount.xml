@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SExtraFolderMountData>
+	<FolderMounts>
+		<Item type="SExtraFolderMount" platform="x64">
+			<path>dlc_patchDay3NG:/%PLATFORM%/movies</path>
+			<mountAs>dlcMovies:/</mountAs>
+		</Item>
+	</FolderMounts>
+</SExtraFolderMountData>
