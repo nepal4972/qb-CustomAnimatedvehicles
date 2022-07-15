@@ -4,5 +4,4 @@ Animated Custom Vehicles For qb-core framework
 
 
 
-Discord For Support
-My Discord Server : https://discord.gg/NCzEEshM
+Discord For Support: https://discord.gg/NCzEEshM
